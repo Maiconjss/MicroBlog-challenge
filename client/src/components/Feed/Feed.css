@@ -1,0 +1,23 @@
+.feedContainer {
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+.commentsContainer{
+    background-color: #cecece;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.feedContent{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.userPicture {
+    border-radius: 50%;
+    width: 150px;
+}
+
